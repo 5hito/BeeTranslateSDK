@@ -4,6 +4,12 @@
 <array>
 	<dict>
 		<key>name</key>
+		<string>自動檢測</string>
+		<key>language</key>
+		<string>auto</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>中文(簡體)</string>
 		<key>language</key>
 		<string>zh-CN</string>

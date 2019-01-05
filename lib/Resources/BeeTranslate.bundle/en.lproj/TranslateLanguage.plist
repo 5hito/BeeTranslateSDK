@@ -4,6 +4,12 @@
 <array>
 	<dict>
 		<key>name</key>
+		<string>Detect Language</string>
+		<key>language</key>
+		<string>auto</string>
+	</dict>
+	<dict>
+		<key>name</key>
 		<string>Chinese (Simplified)</string>
 		<key>language</key>
 		<string>zh-CN</string>
