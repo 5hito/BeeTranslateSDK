@@ -10,8 +10,10 @@
 
 @interface BeeLanguageData : NSObject
 
+@property (nonatomic, assign) BOOL isSupportSpeech;
 @property (nonatomic, strong) NSString* name;
-@property (nonatomic, strong) NSString* language;
+@property (nonatomic, strong) NSString* ggLanguage;
+@property (nonatomic, strong) NSString* speechLocale;
 
 @end
 

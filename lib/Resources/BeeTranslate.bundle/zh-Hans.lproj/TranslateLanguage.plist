@@ -3,142 +3,232 @@
 <plist version="1.0">
 <array>
 	<dict>
+		<key>isSupportSpeech</key>
+		<false/>
 		<key>name</key>
 		<string>自动检测</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>auto</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>中文(简体)</string>
-		<key>language</key>
+		<key>ggLanguage</key>
+		<string>zh-CN</string>
+		<key>speechLocale</key>
 		<string>zh-CN</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>中文(繁体)</string>
-		<key>language</key>
+		<key>ggLanguage</key>
+		<string>zh-TW</string>
+		<key>speechLocale</key>
 		<string>zh-TW</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>英语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>en</string>
+		<key>speechLocale</key>
+		<string>en-US</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>丹麦语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>da</string>
+		<key>speechLocale</key>
+		<string>da-DK</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>荷兰语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>nl</string>
+		<key>speechLocale</key>
+		<string>nl-NL</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>芬兰语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>fi</string>
+		<key>speechLocale</key>
+		<string>fi-FI</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>法语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>fr</string>
+		<key>speechLocale</key>
+		<string>fr-FR</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>德语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>de</string>
+		<key>speechLocale</key>
+		<string>de-DE</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>希腊语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>el</string>
+		<key>speechLocale</key>
+		<string>el-GR</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>印尼语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>id</string>
+		<key>speechLocale</key>
+		<string>id-ID</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>意大利语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>it</string>
+		<key>speechLocale</key>
+		<string>it-IT</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>日语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>ja</string>
+		<key>speechLocale</key>
+		<string>ja-JP</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>韩语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>ko</string>
+		<key>speechLocale</key>
+		<string>ko-KR</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>马来语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>ms</string>
+		<key>speechLocale</key>
+		<string>ms-MY</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>挪威语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>no</string>
+		<key>speechLocale</key>
+		<string>nb-NO</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>葡萄牙语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>pt</string>
+		<key>speechLocale</key>
+		<string>pt-PT</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>俄语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>ru</string>
+		<key>speechLocale</key>
+		<string>ru-RU</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>西班牙语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>es</string>
+		<key>speechLocale</key>
+		<string>es-ES</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>瑞典语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>sv</string>
+		<key>speechLocale</key>
+		<string>sv-SE</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>泰语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>th</string>
+		<key>speechLocale</key>
+		<string>th-TH</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>土耳其语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>tr</string>
+		<key>speechLocale</key>
+		<string>tr-TR</string>
 	</dict>
 	<dict>
+		<key>isSupportSpeech</key>
+		<true/>
 		<key>name</key>
 		<string>越南语</string>
-		<key>language</key>
+		<key>ggLanguage</key>
 		<string>vi</string>
+		<key>speechLocale</key>
+		<string>vi-VN</string>
 	</dict>
 </array>
 </plist>
