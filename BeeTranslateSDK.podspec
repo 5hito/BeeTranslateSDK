@@ -2,7 +2,7 @@
 Pod::Spec.new do |s|
 
   s.name         = "BeeTranslateSDK"
-  s.version      = "0.0.3"
+  s.version      = "0.1.0"
   s.summary      = "translate sdk"
   s.description  = <<-DESC
     0.0.x:基础功能
